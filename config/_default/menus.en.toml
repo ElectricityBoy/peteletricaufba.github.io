@@ -1,11 +1,11 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Página Inicial"
 url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
+name = "Corrente Alternativa"
 url = "blog"
 weight = 2
 
@@ -15,12 +15,12 @@ url = "pricing"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "Contato"
 url = "contact"
 weight = 4
 
 [[main]]
-name = "FAQ"
+name = "Sobre nós"
 url = "faq"
 weight = 5
 
